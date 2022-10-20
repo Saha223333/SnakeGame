@@ -1,0 +1,10 @@
+﻿<Window x:Class="SnakeGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Name="MainWin" Title="MainWindow" Height="466" Width="674" KeyDown="Window_KeyDown">
+    <Grid Height="413" Name="Grid" Width="647">
+        <Label Content="0" Height="38" HorizontalAlignment="Center" Margin="62,0,513,375" Name="SnakeScoresLabel" VerticalAlignment="Center" Width="72" FontSize="20" Foreground="#FFC80000" />
+        <Canvas Height="381" HorizontalAlignment="Center" Margin="0,32,0,0" Name="MyCanvas" VerticalAlignment="Center" Width="647" OpacityMask="Black" Opacity="100" Background="Green"></Canvas>
+        <Label Content="Очки:" Name="label3" Margin="0,0,582,375" FontSize="20" />
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame_MarkupCompile.cache
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.g.resources
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.Properties.Resources.resources
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.exe
+C:\Documents and Settings\protasov\Рабочий стол\Работа\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.pdb
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.exe
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.pdb
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\MainWindow.baml
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\MainWindow.g.cs
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\App.g.cs
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame_MarkupCompile.cache
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.g.resources
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.Properties.Resources.resources
+G:\VSProjects_Актуальное_заменить_потом_этим_в_папке_Работа\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.csproj.GenerateResource.Cache
+C:\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.exe
+C:\VSProjects\SnakeGame\SnakeGame\obj\x86\Debug\SnakeGame.pdb
